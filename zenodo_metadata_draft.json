@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "upload_type": "dataset",
+    "title": "EMSA HI October 2026 locked analysis verification package",
+    "version": "2026-10-01-locked-verification-2026-10-02",
+    "publication_date": "2026-10-02",
+    "description": "Current locked Fig1\u20135 and S1\u2013S7 analysis-level inputs, conditional fusion replay, saved-model verification, selection and clinical missingness audits. Distinct from the June 2026 record. Includes archived branch scores and downstream models, but does not claim complete raw-assay-to-model reproducibility. Small refit-to-locked numerical differences are explicitly documented.",
+    "creators": [
+      {
+        "name": "Ma, Siyu"
+      },
+      {
+        "name": "Wang, Yuan"
+      },
+      {
+        "name": "Lian, Haifeng"
+      },
+      {
+        "name": "Li, Li-li",
+        "orcid": "0000-0003-0060-195X"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "10.5281/zenodo.20771219",
+        "relation": "isNewVersionOf",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "https://github.com/marcel10101/IBD-EMSA-v1-reproducibility",
+        "relation": "isSupplementTo",
+        "scheme": "url"
+      }
+    ],
+    "keywords": [
+      "inflammatory bowel disease",
+      "metabolomics",
+      "longitudinal prediction",
+      "EMSA HI"
+    ],
+    "notes": "Metadata draft only. Confirm author list, software/data licences and public-release authority before depositing. No unpublished manuscript or private author documents are included."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "locked_windows": 152,
+  "locked_people": 66,
+  "next_high_events": 47,
+  "map_visits": 111,
+  "map_people": 63,
+  "map_current_state_counts": [
+    37,
+    38,
+    36
+  ],
+  "updated_module_columns": 19,
+  "source_module_match_max_error": 0,
+  "locked_HI_scores_labels_outer_folds_and_main_predictions_preserved": true,
+  "candidate_configs": 78,
+  "candidate_future_dt23_input": false,
+  "config_MAE_recomputation_max_error": 1.6653345369377348e-16,
+  "bootstrap_resamples": 3000,
+  "PPTX_native_shapes": true,
+  "PPTX_font": "Times New Roman",
+  "final_font_min_points": 11,
+  "final_size_mm": [
+    180,
+    250
+  ],
+  "scope": "Analysis-level upstream tables; no independent assay raw-data QC; supplementary nested selection conditional on exported HI."
+}

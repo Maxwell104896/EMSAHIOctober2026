@@ -1,0 +1,74 @@
+{
+  "windows": 152,
+  "participants": 66,
+  "next_high": 47,
+  "map_visits": 111,
+  "map_people": 63,
+  "map_states": [
+    37,
+    38,
+    36
+  ],
+  "features": 19,
+  "configurations": 78,
+  "future_interval_inputs": false,
+  "best_grid": {
+    "config_id": "R023",
+    "history": 1,
+    "dynamics": 1,
+    "alpha": 31.622776601683793,
+    "n_features": 3,
+    "features": "score_t2|delta12|dt12",
+    "mae": 0.4619974216093753
+  },
+  "performance": [
+    {
+      "model": "nested_regressor_selection",
+      "mae": 0.472848361741645,
+      "mae_ci_low": 0.3961469994490515,
+      "mae_ci_high": 0.5497288804290388,
+      "rmse": 0.6161108543521945,
+      "r2": 0.719136860445335
+    },
+    {
+      "model": "persistence",
+      "mae": 0.509483152473929,
+      "mae_ci_low": 0.4290208854597243,
+      "mae_ci_high": 0.5948067876476926,
+      "rmse": 0.6756765882245954,
+      "r2": 0.6622037932676778
+    },
+    {
+      "model": "descriptive_grid_minimum",
+      "mae": 0.4619974216093752,
+      "mae_ci_low": 0.38664600432882346,
+      "mae_ci_high": 0.5377138360284426,
+      "rmse": 0.6041563697177407,
+      "r2": 0.7299303737363749
+    },
+    {
+      "model": "locked_core_reference",
+      "mae": 0.462368724269022,
+      "mae_ci_low": 0.3873670560985906,
+      "mae_ci_high": 0.5385806045258702,
+      "rmse": 0.6055371043412549,
+      "r2": 0.7286945327930703
+    }
+  ],
+  "paired_difference": {
+    "estimate": -0.036634790732283894,
+    "ci": [
+      -0.07045093548596545,
+      -0.0018226045868979192
+    ]
+  },
+  "clipped_points": {
+    "B": 5,
+    "C": 4,
+    "D": 5,
+    "E": 5,
+    "F": 3,
+    "G": 2
+  },
+  "upstream_scope": "Conditional on locked exported HI; no claim of full-pipeline revalidation."
+}

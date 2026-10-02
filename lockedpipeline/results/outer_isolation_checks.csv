@@ -1,0 +1,11 @@
+model,outer_fold,n_test_participants,upstream_test_overlap,fusion_test_overlap
+HI308,0,17,0,0
+HI308,1,19,0,0
+HI308,2,11,0,0
+HI308,3,17,0,0
+HI308,4,18,0,0
+MBX546,0,20,0,0
+MBX546,1,26,0,0
+MBX546,2,17,0,0
+MBX546,3,23,0,0
+MBX546,4,20,0,0

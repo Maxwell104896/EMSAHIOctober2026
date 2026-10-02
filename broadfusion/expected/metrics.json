@@ -1,0 +1,7 @@
+{
+  "model": "Broad",
+  "n_samples": 2506,
+  "n_participants": 131,
+  "pooled_auc": 0.6551461110196917,
+  "pooled_auprc": 0.8573477464978166
+}

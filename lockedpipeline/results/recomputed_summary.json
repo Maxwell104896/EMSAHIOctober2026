@@ -1,0 +1,85 @@
+{
+  "scope": "Conditional downstream replay from archived fold-specific branch predictions; this run does not refit upstream matrices. Fusion and trajectory inner representations are conditional on the supplied outer-isolated branch fits.",
+  "fusion": [
+    {
+      "model": "HI308",
+      "n_samples": 308,
+      "n_participants": 82,
+      "pooled_auc": 0.8074733292797523,
+      "pooled_auprc": 0.9276344054979235
+    },
+    {
+      "model": "MBX546",
+      "n_samples": 546,
+      "n_participants": 106,
+      "pooled_auc": 0.8243669460214472,
+      "pooled_auprc": 0.9386067537345089
+    },
+    {
+      "model": "Broad",
+      "n_samples": 2506,
+      "n_participants": 131,
+      "pooled_auc": 0.6551461110196917,
+      "pooled_auprc": 0.8573477464978166
+    }
+  ],
+  "trajectory": [
+    {
+      "model": "ridge",
+      "mae": 0.46237281147630627,
+      "r2": 0.7286356662921983,
+      "spearman": 0.8551760195189961
+    },
+    {
+      "model": "persistence",
+      "mae": 0.5095378271492794,
+      "r2": 0.6621192649416695,
+      "spearman": 0.826023961344733
+    },
+    {
+      "model": "linear",
+      "mae": 0.9192670042599158,
+      "r2": 0.00038521409537883855,
+      "spearman": 0.644673624067961
+    }
+  ],
+  "delta_r2": 0.19611630020911808,
+  "three_state_balanced_accuracy": 0.7179239200515797,
+  "persistence_three_state_balanced_accuracy": 0.6956802063185042,
+  "confusion_matrix": [
+    [
+      39,
+      15,
+      1
+    ],
+    [
+      6,
+      35,
+      9
+    ],
+    [
+      0,
+      12,
+      35
+    ]
+  ],
+  "next_high_event_auc": 0.926241134751773,
+  "event_model_features": [
+    "score_t1",
+    "score_t2",
+    "delta12",
+    "abs_delta12",
+    "velocity12",
+    "dt12"
+  ],
+  "event_count": 47,
+  "n_windows": 152,
+  "n_participants": 66,
+  "ridge_minus_persistence_mae_ci95": [
+    -0.07535163516653992,
+    -0.021580764837926158
+  ],
+  "outer_test_participant_overlap": 0,
+  "normalization": "Each outer axis uses only training lp mean/std; each state threshold uses only outer-training t3 values.",
+  "note": "New fold-specific target axis differs from archived globally standardized HI; old and new absolute metrics are not paired comparisons."
+}
