@@ -1,0 +1,16 @@
+{
+  "locked_rows": 152,
+  "step57_rows": 152,
+  "matched_rows": 152,
+  "step57_columns": 387,
+  "key": [
+    "participant_id",
+    "sample_t1",
+    "sample_t2",
+    "sample_t3"
+  ],
+  "maximum_absolute_difference": {
+    "score_t3": 0.0,
+    "ridge_delta_base_pred_next_HI_score": 0.0
+  }
+}

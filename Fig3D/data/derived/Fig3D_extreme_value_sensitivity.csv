@@ -1,0 +1,4 @@
+module,rule,n_retained,n_excluded,unadjusted_beta_per_original_SD,spearman_rho
+Bile acid,exclude |module delta z| > 3,150,2,-0.1524608942235599,-0.23383972621005378
+SCFA / butyrate,exclude |module delta z| > 3,63,2,-0.2109132102436572,-0.16585061443932414
+Oxidative lipid,exclude |module delta z| > 3,152,0,-0.06235618522667431,-0.1149235574327326

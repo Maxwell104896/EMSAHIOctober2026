@@ -1,0 +1,14 @@
+{
+  "comparison": "module delta t1-to-t2 versus future HI delta t2-to-t3",
+  "future_increase": "score_t3 > score_t2",
+  "x_standardization": "mean 0 and sample SD 1 within module's available windows",
+  "adjusted_sensitivity_covariates": [
+    "score_t2",
+    "dt12",
+    "dt23"
+  ],
+  "bootstrap": "participant resampling with all windows retained",
+  "iterations": 3000,
+  "seed": 3486,
+  "scope": "observational association, not intervention or causal effect"
+}

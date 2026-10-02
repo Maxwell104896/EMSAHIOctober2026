@@ -1,0 +1,9 @@
+Predictor,OR,CI_low,CI_high,p_value,OR_CI_label
+Levhar multi-omic (all metrics),2.41,1.78,3.27,<0.0001,2.41 (1.78–3.27)
+Levhar fecal (all metrics),1.89,1.36,2.62,0.0002,1.89 (1.36–2.62)
+Levhar serum (all metrics),1.97,1.4,2.77,0.0001,1.97 (1.40–2.77)
+Calprotectin (log10),1.58,1.17,2.14,0.002,1.58 (1.17–2.14)
+CRP (log10),1.36,1.03,1.81,0.03,1.36 (1.03–1.81)
+Disease duration (per 5 y),1.12,0.92,1.37,0.25,1.12 (0.92–1.37)
+Age (per 10 y),0.96,0.78,1.18,0.70,0.96 (0.78–1.18)
+Sex (male vs female),1.02,0.74,1.4,0.90,1.02 (0.74–1.40)

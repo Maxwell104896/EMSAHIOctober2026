@@ -1,0 +1,14 @@
+{
+  "matched_windows": 152,
+  "participants": 66,
+  "join_columns": [
+    "participant_id",
+    "sample_t1",
+    "sample_t2",
+    "sample_t3"
+  ],
+  "maximum_absolute_differences": {
+    "score_t3": 0.0,
+    "ridge_delta_base_pred_next_HI_score": 0.0
+  }
+}

@@ -1,0 +1,4 @@
+module,source_column,all_windows,available_windows,missing_windows,available_participants
+Bile acid,mbx_metabolomics_branch_bile_acid_module_state_score__delta12,152,152,0,66
+SCFA / butyrate,mgx_ec_function_branch_scfa_butyrate_module_state_score__delta12,152,65,87,42
+Oxidative lipid,mbx_metabolomics_branch_oxidative_stress_lipid_module_state_score__delta12,152,152,0,66

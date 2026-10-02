@@ -1,0 +1,15 @@
+{
+  "matched_windows": 152,
+  "unique_participants": 66,
+  "step55_to_step57_max_difference": {
+    "score_t3": 0.0,
+    "locf_pred_score_t3": 0.0,
+    "linear_pred_score_t3": 0.0,
+    "ridge_delta_base_pred_next_HI_score": 4.440892098500626e-16
+  },
+  "locked_fig6b_to_step57_max_difference": {
+    "score_t3": 0.0,
+    "ridge_delta_base_pred_next_HI_score": 0.0
+  },
+  "meaning": "The plotted model and baselines are the same window-level predictions as the earlier CV table."
+}

@@ -1,0 +1,46 @@
+example,participant_id,diagnosis,pattern_label,time_months,EMSA_HI_score,state
+Example 1,H4044,UC,Relatively stable trajectory,0.0,0.3475552103370747,Intermediate
+Example 1,H4044,UC,Relatively stable trajectory,2.0,-0.3201004580899077,Intermediate
+Example 1,H4044,UC,Relatively stable trajectory,6.0,-0.5884677315617212,Intermediate
+Example 1,H4044,UC,Relatively stable trajectory,8.0,-0.1017429657912789,Intermediate
+Example 1,H4044,UC,Relatively stable trajectory,16.0,0.0303112136120822,Intermediate
+Example 1,H4044,UC,Relatively stable trajectory,23.0,-0.07196859021355545,Intermediate
+Example 1,H4044,UC,Relatively stable trajectory,24.0,-0.0906656950010449,Intermediate
+Example 1,H4044,UC,Relatively stable trajectory,28.0,-0.3401547142031756,Intermediate
+Example 1,H4044,UC,Relatively stable trajectory,38.0,0.2709723065787015,Intermediate
+Example 1,H4044,UC,Relatively stable trajectory,45.0,-0.1214010513585938,Intermediate
+Example 2,C3016,CD,Progressive worsening trajectory,0.0,0.6115455243676245,Intermediate
+Example 2,C3016,CD,Progressive worsening trajectory,2.0,-0.2308499035539234,Intermediate
+Example 2,C3016,CD,Progressive worsening trajectory,4.0,-0.3125984305919718,Intermediate
+Example 2,C3016,CD,Progressive worsening trajectory,6.0,-0.3851079197492204,Intermediate
+Example 2,C3016,CD,Progressive worsening trajectory,8.0,0.3771694702629647,Intermediate
+Example 2,C3016,CD,Progressive worsening trajectory,10.0,-0.2745501628984556,Intermediate
+Example 2,C3016,CD,Progressive worsening trajectory,14.0,-0.6397088296617117,Intermediate
+Example 2,C3016,CD,Progressive worsening trajectory,16.0,0.1561772119699299,Intermediate
+Example 2,C3016,CD,Progressive worsening trajectory,18.0,-0.2070938194305062,Intermediate
+Example 2,C3016,CD,Progressive worsening trajectory,20.0,-0.0805163187861507,Intermediate
+Example 2,C3016,CD,Progressive worsening trajectory,22.0,-0.1327898782010524,Intermediate
+Example 2,C3016,CD,Progressive worsening trajectory,24.0,0.685632010293177,Intermediate
+Example 2,C3016,CD,Progressive worsening trajectory,26.0,0.3409962133404909,Intermediate
+Example 2,C3016,CD,Progressive worsening trajectory,28.0,-0.4397899700680499,Intermediate
+Example 2,C3016,CD,Progressive worsening trajectory,32.0,2.840675880820991,High
+Example 2,C3016,CD,Progressive worsening trajectory,34.0,0.1955266547231461,Intermediate
+Example 2,C3016,CD,Progressive worsening trajectory,36.0,3.2455133132613394,High
+Example 2,C3016,CD,Progressive worsening trajectory,38.0,0.1645257228144431,Intermediate
+Example 2,C3016,CD,Progressive worsening trajectory,40.0,0.1938825160669268,Intermediate
+Example 2,C3016,CD,Progressive worsening trajectory,44.0,1.8184321261197187,High
+Example 2,C3016,CD,Progressive worsening trajectory,46.0,1.6479577662252198,High
+Example 3,C3003,UC,Relapsing-remitting trajectory,0.0,1.2740773026858383,High
+Example 3,C3003,UC,Relapsing-remitting trajectory,1.0,-0.24342374809904474,Intermediate
+Example 3,C3003,UC,Relapsing-remitting trajectory,2.0,-0.3455758479265894,Intermediate
+Example 3,C3003,UC,Relapsing-remitting trajectory,3.0,0.0094756718773848,Intermediate
+Example 3,C3003,UC,Relapsing-remitting trajectory,7.0,1.111031240806802,High
+Example 3,C3003,UC,Relapsing-remitting trajectory,9.0,-0.2140429844741469,Intermediate
+Example 3,C3003,UC,Relapsing-remitting trajectory,11.0,0.2861462495738936,Intermediate
+Example 3,C3003,UC,Relapsing-remitting trajectory,16.0,-0.149832602201691,Intermediate
+Example 3,C3003,UC,Relapsing-remitting trajectory,18.0,1.7035554686305554,High
+Example 3,C3003,UC,Relapsing-remitting trajectory,23.0,-0.3442200905253616,Intermediate
+Example 3,C3003,UC,Relapsing-remitting trajectory,26.0,2.8334671274675567,High
+Example 3,C3003,UC,Relapsing-remitting trajectory,34.0,-0.2232139110061606,Intermediate
+Example 3,C3003,UC,Relapsing-remitting trajectory,38.0,2.4086403066545983,High
+Example 3,C3003,UC,Relapsing-remitting trajectory,47.0,-0.0248671683711715,Intermediate

@@ -1,0 +1,35 @@
+{
+  "n_windows": 152,
+  "n_participants": 66,
+  "n_bins": 5,
+  "bin_edges_predicted_HI": [
+    -2.144463814452462,
+    -0.8272259250510152,
+    -0.15781889107737557,
+    0.2991868895003129,
+    0.7286675619633982,
+    2.409134078100345
+  ],
+  "calibration_slope": 0.9415104759382574,
+  "slope_participant_bootstrap_95CI": [
+    0.8514000247944329,
+    1.0149567669509685
+  ],
+  "calibration_intercept": -0.0007610524401635218,
+  "intercept_participant_bootstrap_95CI": [
+    -0.07781174368690226,
+    0.0741747861837831
+  ],
+  "mean_observed_minus_predicted": -0.0020094739363524707,
+  "mean_bias_participant_bootstrap_95CI": [
+    -0.07145420887328421,
+    0.06662997114310149
+  ],
+  "MAE": 0.42071773366900633,
+  "R2": 0.705572394641903,
+  "bootstrap_iterations": 3000,
+  "bootstrap_unit": "participant_id",
+  "seed": 3486,
+  "binning": "Five quantile bins from locked predicted continuous HI; fixed edges during bootstrap",
+  "scope": "internal continuous-score calibration; not event-rate calibration"
+}

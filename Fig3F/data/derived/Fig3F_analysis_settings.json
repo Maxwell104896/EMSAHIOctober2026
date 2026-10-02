@@ -1,0 +1,10 @@
+{
+  "outcome": "observed_three_state_t3 == HI_high_state",
+  "scope": "next-visit molecular high-HI state, not clinical relapse",
+  "same_windows": 152,
+  "participants": 66,
+  "bootstrap_unit": "participant_id",
+  "bootstrap_iterations": 3000,
+  "seed": 3486,
+  "clinical_models": "not evaluated: required matched clinical predictors and scores unavailable"
+}

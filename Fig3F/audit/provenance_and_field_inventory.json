@@ -1,0 +1,36 @@
+{
+  "matched_windows": 152,
+  "participants": 66,
+  "Step55_to_Step57_max_abs_difference": {
+    "score_t3": 0.0,
+    "locf_pred_score_t3": 0.0,
+    "linear_pred_score_t3": 0.0,
+    "ridge_delta_base_pred_next_HI_score": 4.440892098500626e-16
+  },
+  "source_contains_requested_clinical_fields": {
+    "age": false,
+    "sex": false,
+    "calprotectin": false,
+    "prior_flares": false,
+    "medication_class": false
+  },
+  "availability_workbook_headers": [
+    "sample_id",
+    "participant_id",
+    "visit_id",
+    "collection_date",
+    "diagnosis",
+    "site_name",
+    "MBX",
+    "HTX",
+    "SQX",
+    "MPX",
+    "MGX",
+    "MTX",
+    "PRX",
+    "CLX",
+    "16S",
+    "VIX"
+  ],
+  "clinical_comparison_note": "The files inspected here lack matched clinical predictor values and predictions for the 152 trajectory windows."
+}

@@ -1,0 +1,7 @@
+Model,AUC,CI_low,CI_high,CI_label
+Levhar multi-omic (all metrics),0.86,0.8,0.91,0.86 (0.80–0.91)
+Levhar serum (all metrics),0.81,0.74,0.87,0.81 (0.74–0.87)
+Levhar fecal (all metrics),0.78,0.7,0.85,0.78 (0.70–0.85)
+"Clinical (age, sex, disease duration, prior flares, medication class)",0.66,0.58,0.73,0.66 (0.58–0.73)
+Clinical + calprotectin,0.72,0.65,0.79,0.72 (0.65–0.79)
+Calprotectin alone,0.61,0.53,0.69,0.61 (0.53–0.69)

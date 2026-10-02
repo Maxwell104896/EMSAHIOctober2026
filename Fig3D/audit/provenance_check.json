@@ -1,0 +1,36 @@
+{
+  "matched_windows": 152,
+  "participants": 66,
+  "match_key": [
+    "participant_id",
+    "sample_t1",
+    "sample_t2",
+    "sample_t3"
+  ],
+  "source_field_checks": {
+    "score_t2": {
+      "available_windows": 152,
+      "maximum_absolute_difference": 0.0
+    },
+    "score_t3": {
+      "available_windows": 152,
+      "maximum_absolute_difference": 0.0
+    },
+    "target_delta23": {
+      "available_windows": 152,
+      "maximum_absolute_difference": 0.0
+    },
+    "mbx_metabolomics_branch_bile_acid_module_state_score__delta12": {
+      "available_windows": 152,
+      "maximum_absolute_difference": 0.0
+    },
+    "mgx_ec_function_branch_scfa_butyrate_module_state_score__delta12": {
+      "available_windows": 65,
+      "maximum_absolute_difference": 0.0
+    },
+    "mbx_metabolomics_branch_oxidative_stress_lipid_module_state_score__delta12": {
+      "available_windows": 152,
+      "maximum_absolute_difference": 0.0
+    }
+  }
+}

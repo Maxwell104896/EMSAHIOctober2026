@@ -1,0 +1,4 @@
+model,prediction_column,n_windows,n_participants,n_high,n_not_high,AUROC,CI_low,CI_high
+HI trajectory model,ridge_delta_base_pred_next_HI_score,152,66,53,99,0.9123308557270822,0.8459574550358255,0.9617159587257061
+Last HI (LOCF),locf_pred_score_t3,152,66,53,99,0.9016580903373357,0.8306070553221288,0.9559660084200193
+Linear continuation,linear_pred_score_t3,152,66,53,99,0.7825424051839145,0.6871519017584098,0.8654908279936616

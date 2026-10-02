@@ -1,0 +1,15 @@
+{
+  "bins_weeks": [
+    "2\u20138",
+    "9\u201312",
+    "13\u201330"
+  ],
+  "interval_column": "dt23",
+  "bootstrap_unit": "participant_id",
+  "bootstrap_iterations": 3000,
+  "seed": 3486,
+  "baseline_LOCF": "score_t2",
+  "baseline_linear": "score_t2 + (score_t2-score_t1)*dt23/dt12",
+  "model_prediction": "ridge_delta_base_pred_next_HI_score",
+  "difference_sign": "LOCF MAE minus HI model MAE; positive favors HI model"
+}

@@ -1,0 +1,15 @@
+{
+  "n_windows": 152,
+  "n_participants": 66,
+  "R2": 0.705572394641903,
+  "MAE_HI_units": 0.42071773366900633,
+  "Spearman_rho": 0.8432226846820987,
+  "n_by_observed_state": {
+    "Low": 55,
+    "Intermediate": 44,
+    "High": 53
+  },
+  "prediction_column": "ridge_delta_base_pred_next_HI_score",
+  "observation_column": "score_t3",
+  "residual_definition": "observed_HI_t3 - predicted_HI_t3"
+}

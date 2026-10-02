@@ -1,0 +1,9 @@
+parameter,value
+participant_id,C3016
+diagnosis,CD
+score_t2,1.2791900549800783
+state_t2,HI_high_state
+T1,-0.75
+T2,0.75
+total_samples,546
+total_participants,83

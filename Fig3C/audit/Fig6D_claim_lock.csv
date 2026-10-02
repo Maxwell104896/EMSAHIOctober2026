@@ -1,0 +1,4 @@
+claim_category,decision,allowed_wording,not_allowed_wording
+external ordered-window trajectory relevance,allowed_as_molecular_trajectory_audit,Cohort1 repeated visits supported an external ordered-window molecular trajectory audit.,Clinically validated relapse prediction.
+participant-level window ridge,benchmark_only,Participant-grouped ridge window models estimated trajectory-related information capacity.,External treatment-response or clinical relapse model.
+Cohort2 role,single_sample_validation_only,Cohort2 was used as an independent single-sample flare-proximity set.,Cohort2 validated longitudinal trajectories.
