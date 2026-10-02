@@ -1,0 +1,20 @@
+module_column,branch,same_visit_diagonal,cross_visit_same_module_rho,difference_from_same_visit,cluster_bootstrap_lower,cluster_bootstrap_upper
+MBX_metabolomics_branch__SCFA_butyrate,MBX,1.00000000,0.46184671,-0.53815329,-0.76790202,-0.40248188
+MBX_metabolomics_branch__aromatic_amino_acid_indole,MBX,1.00000000,0.64798175,-0.35201825,-0.56095958,-0.21022692
+MBX_metabolomics_branch__bile_acid,MBX,1.00000000,0.67597059,-0.32402941,-0.49652961,-0.22374679
+MBX_metabolomics_branch__mucin_carbohydrate,MBX,1.00000000,0.25008091,-0.74991909,-1.00013661,-0.51949435
+MBX_metabolomics_branch__oxidative_stress_lipid,MBX,1.00000000,0.51024151,-0.48975849,-0.69915360,-0.33268610
+MGX_EC_function_branch__SCFA_butyrate,MGX EC,1.00000000,0.54367092,-0.45632908,-0.67994910,-0.28768018
+MGX_EC_function_branch__aromatic_amino_acid_indole,MGX EC,1.00000000,0.53151057,-0.46848943,-0.67739540,-0.29318124
+MGX_EC_function_branch__bile_acid,MGX EC,1.00000000,0.30145030,-0.69854970,-0.89182591,-0.51791030
+MGX_EC_function_branch__mucin_carbohydrate,MGX EC,1.00000000,0.62372270,-0.37627730,-0.57680291,-0.24077399
+MGX_EC_function_branch__oxidative_stress_lipid,MGX EC,1.00000000,0.56672780,-0.43327220,-0.64613402,-0.25514358
+MGX_EC_function_branch__pathobiont_inflammatory_potential,MGX EC,1.00000000,0.17066244,-0.82933756,-1.15972733,-0.52179825
+MGX_pathway_function_branch__SCFA_butyrate,MGX pathway,1.00000000,0.42360865,-0.57639135,-0.86863112,-0.34935567
+MGX_pathway_function_branch__aromatic_amino_acid_indole,MGX pathway,1.00000000,0.30192809,-0.69807191,-0.92591465,-0.49495894
+MGX_pathway_function_branch__bile_acid,MGX pathway,1.00000000,0.92701531,-0.07298469,-0.17014262,-0.00136395
+MGX_pathway_function_branch__mucin_carbohydrate,MGX pathway,1.00000000,0.43108364,-0.56891636,-0.78885078,-0.36517480
+MGX_pathway_function_branch__oxidative_stress_lipid,MGX pathway,1.00000000,0.59893918,-0.40106082,-0.62496251,-0.23137057
+MGX_pathway_function_branch__pathobiont_inflammatory_potential,MGX pathway,1.00000000,0.31478356,-0.68521644,-0.95243710,-0.43282774
+MGX_taxonomy_branch__SCFA_butyrate,MGX taxonomy,1.00000000,0.52192276,-0.47807724,-0.69473022,-0.30433068
+MGX_taxonomy_branch__pathobiont_inflammatory_potential,MGX taxonomy,1.00000000,0.65801520,-0.34198480,-0.52280128,-0.23171887

@@ -1,0 +1,21 @@
+{
+  "sample_unit": "ordered t1-t2-t3 prediction window",
+  "cluster_unit": "participant_id",
+  "n_participants": 66,
+  "n_windows": 152,
+  "endpoint": "observed t3 high-HI state",
+  "reference_state": "intermediate HI (26% observed risk)",
+  "RR_high_vs_intermediate": 2.937062937062937,
+  "RR_cluster_bootstrap_95pct": [
+    1.7182588932806326,
+    5.704099272687798
+  ],
+  "n_bootstrap": 10000,
+  "seed": 20260929,
+  "low_vs_intermediate_RR_note": "0 events in low state; no finite CI or RR claim is reported",
+  "input_sha256": {
+    "EMSA_HI_trajectory_prediction_window_table.csv": "0e64ec60095da53debea85a7bed50cd521fd70f5de874ed614bb20cdeff3f6d5",
+    "EMSA_HI_multilevel_delta_prediction_cv_predictions.csv": "ddc1f099b40c24075f3b28fa8129561ac1e6ce706477ea29dc00bfc54242e2ea"
+  },
+  "boundary": "Observed molecular-state endpoint, not clinical relapse, mortality, or causal effect. Variable follow-up gap; descriptive unadjusted RR."
+}

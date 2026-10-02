@@ -1,0 +1,2 @@
+contrast,reference,RR,bootstrap_low,bootstrap_high,bootstrap_replicates,interpretation
+High HI vs Intermediate HI,Intermediate HI,2.937062937062937,1.7182588932806326,5.704099272687798,10000,unadjusted visit-level risk ratio; participant cluster bootstrap

@@ -1,0 +1,20 @@
+order,module_column,label,branch
+1,MBX_metabolomics_branch__SCFA_butyrate,SCFA / butyrate,MBX
+2,MBX_metabolomics_branch__aromatic_amino_acid_indole,Aromatic AA / indole,MBX
+3,MBX_metabolomics_branch__bile_acid,Bile Acid,MBX
+4,MBX_metabolomics_branch__mucin_carbohydrate,Mucin / carbohydrate,MBX
+5,MBX_metabolomics_branch__oxidative_stress_lipid,Oxidative lipid,MBX
+6,MGX_EC_function_branch__SCFA_butyrate,SCFA / butyrate,MGX EC
+7,MGX_EC_function_branch__aromatic_amino_acid_indole,Aromatic AA / indole,MGX EC
+8,MGX_EC_function_branch__bile_acid,Bile Acid,MGX EC
+9,MGX_EC_function_branch__mucin_carbohydrate,Mucin / carbohydrate,MGX EC
+10,MGX_EC_function_branch__oxidative_stress_lipid,Oxidative lipid,MGX EC
+11,MGX_EC_function_branch__pathobiont_inflammatory_potential,Pathobiont potential,MGX EC
+12,MGX_pathway_function_branch__SCFA_butyrate,SCFA / butyrate,MGX pathway
+13,MGX_pathway_function_branch__aromatic_amino_acid_indole,Aromatic AA / indole,MGX pathway
+14,MGX_pathway_function_branch__bile_acid,Bile Acid,MGX pathway
+15,MGX_pathway_function_branch__mucin_carbohydrate,Mucin / carbohydrate,MGX pathway
+16,MGX_pathway_function_branch__oxidative_stress_lipid,Oxidative lipid,MGX pathway
+17,MGX_pathway_function_branch__pathobiont_inflammatory_potential,Pathobiont potential,MGX pathway
+18,MGX_taxonomy_branch__SCFA_butyrate,SCFA / butyrate,MGX taxonomy
+19,MGX_taxonomy_branch__pathobiont_inflammatory_potential,Pathobiont potential,MGX taxonomy

@@ -1,0 +1,4 @@
+current_state,label,n_windows,n_participants,next_high_events,next_high_rate,wilson_low,wilson_high,event_definition,cluster_boot_low,cluster_boot_high
+HI_low_state,Low HI,47,24,0,0.0,0.0,0.07555760416399632,Observed t3 HI_high_state,0.0,0.0
+HI_intermediate_state,Intermediate HI,50,32,13,0.26,0.15871527493552393,0.39553157264848837,Observed t3 HI_high_state,0.14285714285714285,0.4090909090909091
+HI_high_state,High HI,55,30,42,0.7636363636363637,0.6365163381083228,0.8563334413026682,Observed t3 HI_high_state,0.6052631578947368,0.8823529411764706

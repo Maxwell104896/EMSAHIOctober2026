@@ -1,0 +1,11 @@
+{
+  "input_sha256": "0e64ec60095da53debea85a7bed50cd521fd70f5de874ed614bb20cdeff3f6d5",
+  "n_windows": 152,
+  "n_participants": 66,
+  "n_next_high": 55,
+  "baseline": "Intermediate HI",
+  "confidence_intervals_risk": "Wilson binomial; visits treated as units",
+  "confidence_intervals_RR": "10000 participant cluster bootstrap replicates; seed 20260929",
+  "not_estimated": "Adjusted RR/OR and time-to-event HR; low-state reference ratio has zero events",
+  "caveat": "Descriptive next-observed-visit molecular state, not clinical flare or independent-window inference"
+}

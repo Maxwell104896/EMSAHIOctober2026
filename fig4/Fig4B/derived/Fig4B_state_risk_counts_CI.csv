@@ -1,0 +1,4 @@
+current_state,display,windows,participants,events,observed_risk,wilson_low,wilson_high
+HI_low_state,Low HI,47,24,0,0.0,-6.938893903907228e-18,0.07555760416399632
+HI_intermediate_state,Intermediate HI,50,32,13,0.26,0.15871527493552393,0.39553157264848837
+HI_high_state,High HI,55,30,42,0.7636363636363637,0.6365163381083228,0.8563334413026682
