@@ -1,0 +1,12 @@
+{
+  "downstream_replay_max": 4.440892098500626e-16,
+  "upstream_module_replay_max": 8.881784197001252e-16,
+  "n_windows": 152,
+  "n_participants": 66,
+  "future_interval_used": false,
+  "state_counts": {
+    "0": 55,
+    "1": 50,
+    "2": 47
+  }
+}

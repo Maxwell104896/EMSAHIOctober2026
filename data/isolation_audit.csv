@@ -1,0 +1,11 @@
+outer_fold,model,participant_overlap,future_interval_used
+0,ridge,0,False
+0,modules,0,False
+1,ridge,0,False
+1,modules,0,False
+2,ridge,0,False
+2,modules,0,False
+3,ridge,0,False
+3,modules,0,False
+4,ridge,0,False
+4,modules,0,False

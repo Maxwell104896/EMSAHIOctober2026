@@ -1,0 +1,11 @@
+outer_fold,model,features,alpha,shrinkage_lambda
+0,ridge,score_t1|score_t2|delta12|dt12,31.622776601683796,1.0
+0,modules,score_t1|score_t2|delta12|dt12|bile_acid|oxidative_stress_lipid|aromatic_amino_acid_indole|SCFA_butyrate,100.0,1.0
+1,ridge,score_t2|delta12|dt12,31.622776601683796,1.0
+1,modules,score_t2|delta12|dt12|bile_acid|oxidative_stress_lipid|aromatic_amino_acid_indole|SCFA_butyrate,100.0,1.0
+2,ridge,score_t1|score_t2|delta12|dt12,31.622776601683796,1.0
+2,modules,score_t1|score_t2|delta12|dt12|bile_acid|oxidative_stress_lipid|aromatic_amino_acid_indole|SCFA_butyrate,31.622776601683793,1.0
+3,ridge,score_t2|delta12|abs_delta12|velocity12|dt12,100.0,1.0
+3,modules,score_t2|delta12|abs_delta12|velocity12|dt12|bile_acid|oxidative_stress_lipid|aromatic_amino_acid_indole|SCFA_butyrate,100.0,1.0
+4,ridge,score_t2|delta12|dt12,31.622776601683796,1.0
+4,modules,score_t2|delta12|dt12|bile_acid|oxidative_stress_lipid|aromatic_amino_acid_indole|SCFA_butyrate,100.0,1.0

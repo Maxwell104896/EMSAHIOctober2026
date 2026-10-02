@@ -1,0 +1,20 @@
+{
+  "n": 152,
+  "participants": 66,
+  "locked_ridge_replay_max": 6.661338147750939e-16,
+  "future_interval_predictors": false,
+  "outer_participant_overlap_max": 0,
+  "bootstrap_replicates": 2000,
+  "calibration": {
+    "slope": 1.0151845366535672,
+    "intercept": -0.018805568704614056,
+    "slope_ci": [
+      0.945488114565705,
+      1.070005400792339
+    ],
+    "intercept_ci": [
+      -0.08607327665410804,
+      0.053143124903666177
+    ]
+  }
+}
